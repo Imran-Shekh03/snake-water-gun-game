@@ -16,7 +16,17 @@ A console-based Snake-Water-Gun game built in Python to demonstrate core program
 - Random Module
 - f-strings
 
-## ▶️ How to Run
+## Requirements
+- Python 3.x installed on your system
+
+## How to Run
+
+1. Download the repository as ZIP.
+2. Extract the folder.
+3. Open the folder containing `main.py`.
+4. Open Command Prompt in that folder.
+5. Run:
 
 ```bash
 python main.py
+```

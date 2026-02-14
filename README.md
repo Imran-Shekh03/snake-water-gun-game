@@ -1,6 +1,6 @@
 # 🐍 Snake Water Gun Game
 
-My first Python project – a console-based Snake-Water-Gun game built using core programming concepts.
+A console-based Snake-Water-Gun game built in Python to demonstrate core programming concepts.
 
 ## 🚀 Features
 - Random computer moves
